@@ -57,10 +57,7 @@ const Portfolio = () => {
           alt="Employee Manager App Project..."
         />
         <p>
-          Employee Manager is a CLI app for managing human resources. You can
-          add, edit, and delete employees, departments, and roles, and manage
-          the associations between them. See the database schema for more
-          information about how it all works together.
+          Employee Manager is a CLI app for managing human resources. 
         </p>
         <b>GitHub:</b>{" "}
         <a
@@ -160,7 +157,7 @@ const Portfolio = () => {
   const popupboxConfigFitnessTracker = {
     titleBar: {
       enable: true,
-      text: "Fitness Tracker React and Redux project.",
+      text: "Portfolio app",
     },
     fadeIn: true,
     fadeInSpeed: 500,
