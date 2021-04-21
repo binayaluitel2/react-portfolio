@@ -97,10 +97,7 @@ const Portfolio = () => {
           src={portfolio}
           alt="Portfolio Project..."
         />
-        <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex cumque
-          illo est expedita quos adipisci suscipit unde itaque qui perferendis.
-        </p>
+        <p>This is a porrtfolio using React.</p>
         <br />
         <b>GitHub:</b>{" "}
         <a
@@ -138,16 +135,19 @@ const Portfolio = () => {
           alt="Fitness Tracker React and Redux Project..."
         />
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex cumque
-          illo est expedita quos adipisci suscipit unde itaque qui perferendis.
+          Fitness Tracker app enables users to view create and track daily
+          workouts. This allows users to log multiple exercises in a workout on
+          a given day.
         </p>
- 
         <br />
         <b>GitHub:</b>{" "}
         <a
           className="hyper-link"
           onClick={() =>
-            window.open("https://github.com/binayaluitel2/fitness-tracker", "_blank")
+            window.open(
+              "https://github.com/binayaluitel2/fitness-tracker",
+              "_blank"
+            )
           }
         >
           https://github.com/binayaluitel2/fitness-tracker
