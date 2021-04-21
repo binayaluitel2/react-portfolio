@@ -1,6 +1,6 @@
 # react-portfolio
 
- ![react_portfolio](./public/image/my_portfolio.png)
+ ![react_portfolio](./src/images/portfolio.png)
 
 ## Heroku Deploymet:
 My react portfolio is also deployed in heroku. Please click this link to view the  [Deployed App](https://hidden-earth-19570.herokuapp.com/) in heroku.
